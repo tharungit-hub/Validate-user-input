@@ -37,7 +37,7 @@ your browser will display an error message.</p>
 </html>
 ~~~
 # OUPUT
-![SEC](exp5.png)
+![SEC](exp-5.png)
 
 # RESULT
 Javascript to Validate user input was successfully executed.
